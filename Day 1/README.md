@@ -6,7 +6,7 @@
 
 C++ is a programming language developed by Bjarne Stroustrup as an extension of the C programming language.
 
-### Let's Start with a simple C++ Program
+### Now, let's take a look at simple C++ Program
 
 ```cpp
 // Simple Hello World in C++
