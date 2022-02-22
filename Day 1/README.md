@@ -1,18 +1,34 @@
-# Welcome to Day 1 of C Programming Language
+# C++-Programming-Language
+
+# Welcome to Day 1 of C++ Programming Language
 
 ### Let's Start with the Basics
 
-C is a programming language developed by Dennis Ritchie in AT & T's Bell Laboratories.
+C++ is a programming language developed by Bjarne Stroustrup as an extension of the C programming language.
 
-### Let's Start with a simple C Program
+### Let's Start with a simple C++ Program
 
-```c
-// Simple Hello World in C
-#include <stdio.h>
+```cpp
+// Simple Hello World in C++
+#include <iostream>
 
 int main()
 {
-  printf("Hello World!");
+  std::cout << "Hello World!";
+  return 0;
+}
+```
+
+### OR
+
+```cpp
+// Simple Hello World in C++
+#include <iostream>
+using namespace std
+
+int main()
+{
+  cout << "Hello World!";
   return 0;
 }
 ```
